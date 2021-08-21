@@ -4,7 +4,7 @@ Static single page website for a Search Engine SEO company, Horiseon. Self conta
 
 [View the demo/page](https://drraccoony.github.io/urban-octo-telegram/)
 
-![screenshot](projectSCreenshot.png?raw=true  "Screenshot")
+![screenshot](./projectScreenshot.png?raw=true "Screenshot")
 
 
 ## Objective
