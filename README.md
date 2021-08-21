@@ -2,6 +2,11 @@
 
 Static single page website for a Search Engine SEO company, Horiseon. Self contained without any usage of external libraires, CDNs or frameworks.
 
+[View the demo/page](https://drraccoony.github.io/urban-octo-telegram/)
+
+![screenshot](projectSCreenshot.png?raw=true  "Screenshot")
+
+
 ## Objective
 Taking the orginal website and doing a CSS Clean-pass and accessiblity review. Adding alt tags and ensuring proper usage of elements to work its best with accessiblity standards such as screen readers, etc.
 
@@ -18,5 +23,3 @@ No PHP, Database or anything-else required.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.s
